@@ -1,0 +1,13 @@
+.bgimage{
+    background-color: #1b6d85;
+    background-position: center;
+   }
+
+.icon{
+    max-width: 150px;
+    margin: auto;
+    display: block;
+}
+mark{
+    background-color: #5bc0de;
+}
